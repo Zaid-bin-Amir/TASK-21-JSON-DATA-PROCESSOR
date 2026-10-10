@@ -1,0 +1,443 @@
+{
+    "search_name_sara": [
+        {
+            "id": 102,
+            "name": "Sara Khan",
+            "department": "Engineering",
+            "salary": 135000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "SQL"
+            ],
+            "address": {
+                "city": "Islamabad",
+                "country": "Pakistan"
+            }
+        }
+    ],
+    "engineering_department": [
+        {
+            "id": 101,
+            "name": "Ali Raza",
+            "department": "Engineering",
+            "salary": 120000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Django",
+                "SQL"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 102,
+            "name": "Sara Khan",
+            "department": "Engineering",
+            "salary": 135000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "SQL"
+            ],
+            "address": {
+                "city": "Islamabad",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 106,
+            "name": "Ayesha Siddiqui",
+            "department": "Engineering",
+            "salary": 150000,
+            "active": true,
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "SQL"
+            ],
+            "address": {
+                "city": "Karachi",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 109,
+            "name": "Zain Abbas",
+            "department": "Engineering",
+            "salary": 95000,
+            "active": false,
+            "skills": [
+                "JavaScript",
+                "React"
+            ],
+            "address": {
+                "city": "Multan",
+                "country": "Pakistan"
+            }
+        }
+    ],
+    "salary_100000_or_more": [
+        {
+            "id": 101,
+            "name": "Ali Raza",
+            "department": "Engineering",
+            "salary": 120000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Django",
+                "SQL"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 102,
+            "name": "Sara Khan",
+            "department": "Engineering",
+            "salary": 135000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "SQL"
+            ],
+            "address": {
+                "city": "Islamabad",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 105,
+            "name": "Bilal Ahmed",
+            "department": "Finance",
+            "salary": 110000,
+            "active": true,
+            "skills": [
+                "Excel",
+                "Accounting",
+                "SQL"
+            ],
+            "address": {
+                "city": "Faisalabad",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 106,
+            "name": "Ayesha Siddiqui",
+            "department": "Engineering",
+            "salary": 150000,
+            "active": true,
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "SQL"
+            ],
+            "address": {
+                "city": "Karachi",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 108,
+            "name": "Fatima Noor",
+            "department": "Finance",
+            "salary": 125000,
+            "active": true,
+            "skills": [
+                "Auditing",
+                "Excel"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        }
+    ],
+    "skill_sql": [
+        {
+            "id": 101,
+            "name": "Ali Raza",
+            "department": "Engineering",
+            "salary": 120000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Django",
+                "SQL"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 102,
+            "name": "Sara Khan",
+            "department": "Engineering",
+            "salary": 135000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "SQL"
+            ],
+            "address": {
+                "city": "Islamabad",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 105,
+            "name": "Bilal Ahmed",
+            "department": "Finance",
+            "salary": 110000,
+            "active": true,
+            "skills": [
+                "Excel",
+                "Accounting",
+                "SQL"
+            ],
+            "address": {
+                "city": "Faisalabad",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 106,
+            "name": "Ayesha Siddiqui",
+            "department": "Engineering",
+            "salary": 150000,
+            "active": true,
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "SQL"
+            ],
+            "address": {
+                "city": "Karachi",
+                "country": "Pakistan"
+            }
+        }
+    ],
+    "city_lahore": [
+        {
+            "id": 101,
+            "name": "Ali Raza",
+            "department": "Engineering",
+            "salary": 120000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Django",
+                "SQL"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 104,
+            "name": "Hina Malik",
+            "department": "Human Resources",
+            "salary": 90000,
+            "active": false,
+            "skills": [
+                "Recruitment",
+                "Communication"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 108,
+            "name": "Fatima Noor",
+            "department": "Finance",
+            "salary": 125000,
+            "active": true,
+            "skills": [
+                "Auditing",
+                "Excel"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        }
+    ],
+    "active_employees": [
+        {
+            "id": 101,
+            "name": "Ali Raza",
+            "department": "Engineering",
+            "salary": 120000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Django",
+                "SQL"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 102,
+            "name": "Sara Khan",
+            "department": "Engineering",
+            "salary": 135000,
+            "active": true,
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "SQL"
+            ],
+            "address": {
+                "city": "Islamabad",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 103,
+            "name": "Usman Tariq",
+            "department": "Marketing",
+            "salary": 85000,
+            "active": true,
+            "skills": [
+                "SEO",
+                "Content Writing"
+            ],
+            "address": {
+                "city": "Karachi",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 105,
+            "name": "Bilal Ahmed",
+            "department": "Finance",
+            "salary": 110000,
+            "active": true,
+            "skills": [
+                "Excel",
+                "Accounting",
+                "SQL"
+            ],
+            "address": {
+                "city": "Faisalabad",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 106,
+            "name": "Ayesha Siddiqui",
+            "department": "Engineering",
+            "salary": 150000,
+            "active": true,
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "SQL"
+            ],
+            "address": {
+                "city": "Karachi",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 107,
+            "name": "Hamza Sheikh",
+            "department": "Marketing",
+            "salary": 78000,
+            "active": true,
+            "skills": [
+                "Social Media",
+                "Design"
+            ],
+            "address": {
+                "city": "Sargodha",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 108,
+            "name": "Fatima Noor",
+            "department": "Finance",
+            "salary": 125000,
+            "active": true,
+            "skills": [
+                "Auditing",
+                "Excel"
+            ],
+            "address": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            }
+        },
+        {
+            "id": 110,
+            "name": "Maryam Javed",
+            "department": "Human Resources",
+            "salary": 88000,
+            "active": true,
+            "skills": [
+                "Training",
+                "Communication"
+            ],
+            "address": {
+                "city": "Islamabad",
+                "country": "Pakistan"
+            }
+        }
+    ],
+    "summary": {
+        "total_employees": 10,
+        "active_employees": 8,
+        "inactive_employees": 2,
+        "total_salary": 1076000,
+        "average_salary": 107600.0,
+        "highest_paid": {
+            "name": "Ayesha Siddiqui",
+            "salary": 150000
+        },
+        "lowest_paid": {
+            "name": "Hamza Sheikh",
+            "salary": 78000
+        },
+        "departments": {
+            "Engineering": {
+                "count": 4,
+                "total_salary": 500000,
+                "average_salary": 125000.0
+            },
+            "Marketing": {
+                "count": 2,
+                "total_salary": 163000,
+                "average_salary": 81500.0
+            },
+            "Human Resources": {
+                "count": 2,
+                "total_salary": 178000,
+                "average_salary": 89000.0
+            },
+            "Finance": {
+                "count": 2,
+                "total_salary": 235000,
+                "average_salary": 117500.0
+            }
+        }
+    }
+}
